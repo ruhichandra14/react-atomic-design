@@ -1,0 +1,57 @@
+
+.main-heading-tag{
+    font-size: 41px;
+    top: 24px;
+    position: relative;
+    font-family: Arial Black;
+}
+
+.heading-tag{
+	margin: 100px 0 18px 0;
+    font-size: 20px;
+}
+
+.video-tag{
+	height: 200px;
+    width: 262px;
+    margin: 80px 0 0 0;
+    display: block;
+}
+
+.image-tag{
+	width: 275px;
+    height: 222px;
+    display: inline-block;
+    border: 1px solid black;
+    padding: 24px;
+    position: relative;
+    top: 7px;
+    cursor: pointer;
+}
+
+.paragraph-tag{
+	margin: 35px 0 0 0;
+}
+
+.anchor-tag{
+  font-size: 15px;
+}
+
+.sub-heading-tag{
+	font-size: 20px;
+    font-style: italic;
+    margin: 37px 0 0 0;
+}
+
+.input-field{
+	margin: 40px 0 0 0;
+}
+
+body{
+	background-color: #f7f7f9;
+}
+
+.sub-heading-sub-tag{
+    font-size: 23px;
+    margin: 56px 0 0 0;
+}
